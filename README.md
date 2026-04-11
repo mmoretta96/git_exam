@@ -1,1 +1,1 @@
-# this is a readme file for git_exam
+# this is a README.md file for git_exam.
